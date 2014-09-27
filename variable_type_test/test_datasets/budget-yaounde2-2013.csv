@@ -1,0 +1,280 @@
+Head-account,Head-account description,Sub-account,Sub-account description,Year,Amount,Revenue/Expenditure,Recurrent/Investment,Expense type,Region,Council,Reporting type,Division type
+110,Réserves affectées pour fonctionnement reserves earmaked for overheads ,110.101,Réserves affectées pour fonctionnement reserves earmaked for overheads ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+710,Recettes fiscales /Fiscal REVENUE ,710.100,Produits de l’impôt  libératoire /Proceeds from business  tax,2013,400000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+710,Recettes fiscales /Fiscal REVENUE ,710.101,Contributions des patentes/Proceeds from business licences ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+710,Recettes fiscales /Fiscal REVENUE ,710.102,Contributions des licences/Liquor licence  ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+710,Recettes fiscales /Fiscal REVENUE ,710.103,Taxe sur le bétail/Cawe tax ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+710,Recettes fiscales /Fiscal REVENUE ,710.104,Taxe sur les armes à feu ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+710,Recettes fiscales /Fiscal REVENUE ,710.105,Droits de mutation à titre onéreux/Transfer fees ,2013,5000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+710,Recettes fiscales /Fiscal REVENUE ,710.106,Redevance forestière/Forest taxes ,2013,20000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+710,Recettes fiscales /Fiscal REVENUE ,710.107,Taxe d’assainissement/Sanitary inspection tax,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+710,Recettes fiscales /Fiscal REVENUE ,710.108,Taxe sur les certificats d’immatriculation des véhicules et engins à moteur/ Certification at motor vehicules and machines registration ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+710,Recettes fiscales /Fiscal REVENUE ,710.109,Taxe foncière/Land tax,2013,15000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+710,Recettes fiscales /Fiscal REVENUE ,710.114,Autres recettes fiscales/Other fiscal REVENUE ,2013,20000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+711,Centimes additionnels communaux/Council additional taxes from levies ,711.100,Centimes additionnels communaux sur impôts / Council  additional taxes from levies ,2013,200000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+712,Taxes communales directes /Direct council taxes,712.100,Produits de la taxe d’eau /Proceeds of water tax ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+712,Taxes communales directes /Direct council taxes,712.101,Produits de  la taxe d’eau/Proceeds of water tax ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+712,Taxes communales directes /Direct council taxes,712.102,Produit de l’enlèvement des ordures ménagères/Refuse disposal tax  ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+712,Taxes communales directes /Direct council taxes,712.103,Produit de fonctionnement de l’ambulance municipale /Proceeds from municpal ambulance services,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+712,Taxes communales directes /Direct council taxes,712.104,Produits de la taxe d’électrification/Electrification tax ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+712,Taxes communales directes /Direct council taxes,712.105,Autres taxes communales directes/Other direct council taxes  ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.100,Produits de la taxe d’abattage ,2013,1000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.101,Produits de la taxe d’inpection sanitaire/Proceeds of sanitary inspection tax ,2013,50000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.102,Produit des droits de fourrière /Proceeds of pond fees,2013,20000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.103,Produtis des droits de place sur les marchés/ Market tolls ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.104,Doit sur les permis de bâtir/Building permit fees  ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.105,Droit d’occupation temporaire de la voie publique/  Fees for temporary occupation of highway ,2013,25000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.106,Droit d’occupation des parcs de stationnement /Motor park fees ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.107,Produit de la taxe de stationnement/ Parking tax ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.108,Produit de la taxe sur le spectacle ,2013,10000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.109,Produit des droits de stade/stadium fees   ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.110,Produit de la taxe sur la publicité / Advetizing taxes ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.111,Produit de la taxe sur les lots urbains non mis en valeur / taxes on under developped urban plots ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.112,Produit des droits de timbre / Stam duties ,2013,30000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.113,Redevance  pour dégradation de chaussée/ Highway dilpidation tax ,2013,1000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.114,Taxe de transhumance/Tax seasonal livestock mouvment ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.115,Taxe de transit/Transit tax on livestock,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.116,Taxe douanière municipal/Municipal custom Tax  ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.117,"Produits des droits sur l’exploitation des resources manières, de pêche, etc droits d’occupation de parking  / Proceeds from exploitation of mineral, fishery ressouces",2013,15000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.118,Autres taxes communales indirects/Other indirect council taxe ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.119,Taxe cx/bétail ,2013,1000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.120,Taxe sur les armes à feu ,2013,1000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.121,Tickets de quai ,2013,1000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+713,Produits des taxes communales indirectes /Proceeds or indirect council tax,713.122,Autres taxes communales ,2013,50000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.100,Loyers des immeubles communaux/Rent and hire of council property ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.101,Retenues pour logements occupés par les agents communaux/Stoppages for houses occupied by council staff ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.102,Retenues pour transport du personnel/Stoppages for houses occupied by council staff ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.103,"Location des meubles des salles de fêtes, des camions, engins et autres biens meubles et immobiliers /Rent of movable property hall, trucks, machines and other ",2013,15000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.105,Cessions d’eau et électricité/Tranfer of water and electricity supply ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.106,Cessions des garages / Garage transfer ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.107,"Cessions de sables, pierres, pouzzolane et autre produits des carrières/Tranfer of sand, stones, pozzolana and other quarry products",2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.111,Produits des services affermés ou concédes / Proceeds of leases and grants ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.112,Droit d’accès aux monuments et sites aménagés par la commune /Acces fees for monuments and sites developed by the council,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.113,Droits de quai / Quay fees ,2013,1000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.114,Droits sur embarcations / Loading fees ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.115,Produits de la bibliothèque / library fees ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.116,Produits de concession des emplacements publicitaires/Proceeds of adventising spots,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.117,Produits de concession dans les cimetières/Cemetteries fees,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.119,Produits des prestations de services fournies/Proceeds of services rendered ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.120,Recettes des services/REVENUE from services  ,2013,10000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+720,Produits de l’exploitation du domaine et des service  communaux / Proceeds from exploitation of council property and services ,720.121,Autre produits d’exploitation du domaine/Other REVENUE form the exploitation,2013,5000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+730,RISTOURNES SUR  PRODUITS ET REDEVANCES CONSENTIES PAR L’ETAT /Rebates and royaities granted by the  state ,730.100,Ristournes sur produits de base/Rebates on the sale of primary product ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+730,RISTOURNES SUR  PRODUITS ET REDEVANCES CONSENTIES PAR L’ETAT /Rebates and royaities granted by the  state ,730.101,Ristournes sur ventes des terrains domaniaux /Rebates on sales of stat lands,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+730,RISTOURNES SUR  PRODUITS ET REDEVANCES CONSENTIES PAR L’ETAT /Rebates and royaities granted by the  state ,730.102,Ristournes forestière/Rebates on forestry operation,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+730,RISTOURNES SUR  PRODUITS ET REDEVANCES CONSENTIES PAR L’ETAT /Rebates and royaities granted by the  state ,730.103,Ristournes sur exploiration minière/Rebates on mineral exploitation ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+730,RISTOURNES SUR  PRODUITS ET REDEVANCES CONSENTIES PAR L’ETAT /Rebates and royaities granted by the  state ,730.104,Autres ristournes recues/Other rebates ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+740,PRODUITS FINANCIERS/FINANCIAL REVENUE ,740.100,Intérêts reçus sur des dépôts bancaires/Interest on orward bank deposits ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+740,PRODUITS FINANCIERS/FINANCIAL REVENUE ,740.101,Intérêts reçus sur prêts à court terme/Interest on short term loans ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+740,PRODUITS FINANCIERS/FINANCIAL REVENUE ,740.102,Intérêts reçus sur prêts à long terme/Interest on cash,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+740,PRODUITS FINANCIERS/FINANCIAL REVENUE ,740.103,Intérêts reçus prêts à long terme/Interest on long term loans,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+740,PRODUITS FINANCIERS/FINANCIAL REVENUE ,740.104,Dividendes reçus/Dividends ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+740,PRODUITS FINANCIERS/FINANCIAL REVENUE ,740.105,Intérêts moratoires reçus/ Interest on overdue payments ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+740,PRODUITS FINANCIERS/FINANCIAL REVENUE ,740.106,Autres intérêts reçus/Other interests ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+750,SUBVENTION DE FONCTIONNEMENT RECUS REVENUE FROM OPERATING SUBVENTIONS ,750.100,Subventions de fonctionnement reçues de l’Etat/Operating subvention granted by the state ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+750,SUBVENTION DE FONCTIONNEMENT RECUS REVENUE FROM OPERATING SUBVENTIONS ,750.101,Subvention de fonctionnement reçues de la communauté urbaine/Operating subvention garanted by the city council  ,2013,100000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+750,SUBVENTION DE FONCTIONNEMENT RECUS REVENUE FROM OPERATING SUBVENTIONS ,750.102,Subvention de fonctionnement reçues des autres organismes dispensateurs/Operating subvention garanted by other donor bodies,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+760,TRANSFERTS RECUS/TRANSFERS,760.100,Transferts reçus de l’Etat /Transfers received from the state,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+760,TRANSFERTS RECUS/TRANSFERS,760.101,Transfert reçus des autres organismes nationaux,2013,20000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+760,TRANSFERTS RECUS/TRANSFERS,760.102,Transferts reçus dans le cadre de la coopération Internationale décentralisée  ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+760,TRANSFERTS RECUS/TRANSFERS,760.103,Ristournes sur ventes des terrains domaniaux/Rebates on sale of stat lands ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+760,TRANSFERTS RECUS/TRANSFERS,760.104,Transferts reçus dans le cadre de la coopération internationale  décentralisée/Transfers received as international council cooperation,2013,100000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+770,AUTRES PRODUITS PROFITS DIVERS MISCELLANOUS REVENUE AND SUNDRY PROFITS ,770.100,Indemnités d’assurances reçues/Insurance allowances received ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+770,AUTRES PRODUITS PROFITS DIVERS MISCELLANOUS REVENUE AND SUNDRY PROFITS ,770.101,Gains de change/Exchange profits,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+770,AUTRES PRODUITS PROFITS DIVERS MISCELLANOUS REVENUE AND SUNDRY PROFITS ,770.102,"Dons, legs reçus et destines au fonctionnement /Gift ands legacies for the nunning of council services",2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+770,AUTRES PRODUITS PROFITS DIVERS MISCELLANOUS REVENUE AND SUNDRY PROFITS ,770.103,Excédents de caisse non justifiés/Unjustifed cash surplus,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+770,AUTRES PRODUITS PROFITS DIVERS MISCELLANOUS REVENUE AND SUNDRY PROFITS ,770.104,Pénalités de retard sur marchés reçues /Penalties for late contracts received  ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+770,AUTRES PRODUITS PROFITS DIVERS MISCELLANOUS REVENUE AND SUNDRY PROFITS ,770.105,"Produits des amendes de simple police reçus, Fines for simple offences ",2013,1000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+770,AUTRES PRODUITS PROFITS DIVERS MISCELLANOUS REVENUE AND SUNDRY PROFITS ,770.106,Amendes pénales reçues  / Penal fines received  ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+770,AUTRES PRODUITS PROFITS DIVERS MISCELLANOUS REVENUE AND SUNDRY PROFITS ,770.107,"Produits des titres de créances à payer atteints par la prescription quadriennale (bons de caisse, virements et chèques non payés au niveau de caisse et de la banque par la faute du créancier) / Proceeds of unpaid debls which have exceeded the perscnbed fouryear payment period payment vouchers. Settlement and unpaid cheques at the treasury or bank due to the creditors error.) ",2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+770,AUTRES PRODUITS PROFITS DIVERS MISCELLANOUS REVENUE AND SUNDRY PROFITS ,770.108,Rentrée créances déjà admises en non valeur/Proceeds of debts already considered as unproductive assets,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+770,AUTRES PRODUITS PROFITS DIVERS MISCELLANOUS REVENUE AND SUNDRY PROFITS ,770.109,"Produits des condamnations civiles ou pénales au bénéfice de la commune, Proceeds of civil or penal sentences for the council ",2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+770,AUTRES PRODUITS PROFITS DIVERS MISCELLANOUS REVENUE AND SUNDRY PROFITS ,770.110,Produits des activités sportives internes à la commune/Proceeds of sporting activities organized within the council  ,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+770,AUTRES PRODUITS PROFITS DIVERS MISCELLANOUS REVENUE AND SUNDRY PROFITS ,770.111,Contributions volontaires des communautés ou des O.N.G. aux charges de fonctionnement de la commune / Voluntary contribution of communities or ONG to the running expenses of the council,2013,25000000.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+770,AUTRES PRODUITS PROFITS DIVERS MISCELLANOUS REVENUE AND SUNDRY PROFITS ,770.112,Quote part de la subvention d’équipement rapportée annuellement au résultat de l’exercice /Voluntary contribution of communities or ONG to the running expenses of the council,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+780,Reprise sur amortissement / Depreciation returns (scrape salerage reçu) ,780.100,Reprise sur amortissement / Depreciation returns,2013,0.0,REVENUE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+100,Fond de dotation de base ,100.100,Fond de dotation de base ,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+100,Fond de dotation de base ,100.110,Dotation d’origine reçue  (CUY),2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+100,Fond de dotation de base ,100.120,Affectation en espèces ou en nature reçues ,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+100,Fond de dotation de base ,100.130,Dons et legs reçus pour investissement ,2013,10000000.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+100,Fond de dotation de base ,100.140,Contribution volontaire aux dépenses d’investissement ,2013,20000000.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+100,Fond de dotation de base ,100.150,Autres contributions reçues pour investissement,2013,25000000.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+110,RESERVES ,110.100,Réserves affectées pour investissement ,2013,6000000.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+110,RESERVES ,110.102,Reserve non affectées maintenues à l’actif en quasi-monnaie ,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+840,"CESSION D’IMMOBILISATION (COMPTES 21, 22, 25, 26)/TRANSFER ON FIXED ASSET (ACCOUNT, 21, 22, 25, 26)",840.100,"CESSION D’IMMOBILISATION (COMPTES 21, 22, 25, 26)/TRANSFER ON FIXED ASSET (ACCOUNT, 21, 22, 25, 26)",2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+140,SUBVENTION D’EQUIPEMENT RECUES/EQUIPMENT GRANTS RECEIVED ,140.100,Subvention d’equipement reçues de l’Etat ,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+140,SUBVENTION D’EQUIPEMENT RECUES/EQUIPMENT GRANTS RECEIVED ,140.110,Subvention d’équipement reçues de la communauté urbaine ,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+140,SUBVENTION D’EQUIPEMENT RECUES/EQUIPMENT GRANTS RECEIVED ,140.120,Subvention d’équipement reçues du FEICOM,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+140,SUBVENTION D’EQUIPEMENT RECUES/EQUIPMENT GRANTS RECEIVED ,140.130,Subvention d’équipement reçues des communes urbaines ,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+140,SUBVENTION D’EQUIPEMENT RECUES/EQUIPMENT GRANTS RECEIVED ,140.140,Autres subventions d’équipement reçues ,2013,10000000.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+140,SUBVENTION D’EQUIPEMENT RECUES/EQUIPMENT GRANTS RECEIVED ,140.150,Autres subventions/ Other grants ,2013,54000000.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+150,EMPRUNT A LONG ET MOYEN TERMES ,150.100,Emprunts à long et à moyens terme remboursables en monnaie nationale/long and medium term loans repayable in foreign currency ,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+150,EMPRUNT A LONG ET MOYEN TERMES ,150.110,Emprunts à long et à moyen terme remboursables en divers ,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+150,EMPRUNT A LONG ET MOYEN TERMES ,150.120,Emprunts à long et à moyen terme remboursables en nature ,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+160,AUTRES DETTES A LONG ET A MOYEN TERMES/OTHER LONG AND MEDIUM TERM DEBITS ,160.100, Avances de l’Etat à plus d’un an ,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+160,AUTRES DETTES A LONG ET A MOYEN TERMES/OTHER LONG AND MEDIUM TERM DEBITS ,160.110,Crédits à long et à moyen terme consentis par les fournisseurs/Long and medium-term credits granded by contractors ,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+250,REMBOURSEMENTS DES PRETS ET AUTRES CREANCES A LONG ET A MOYEN TERMES/PEPAYMENT OF LOANS AND CREDITS LONG AND MEDIUM TERM ,250.100,Créances sut tiers et à moyenne terme à encaisser ,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+250,REMBOURSEMENTS DES PRETS ET AUTRES CREANCES A LONG ET A MOYEN TERMES/PEPAYMENT OF LOANS AND CREDITS LONG AND MEDIUM TERM ,250.200,Avances à court terme consolidées en dettes à long et à moyen termes à encaisser ,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+250,REMBOURSEMENTS DES PRETS ET AUTRES CREANCES A LONG ET A MOYEN TERMES/PEPAYMENT OF LOANS AND CREDITS LONG AND MEDIUM TERM ,250.300,Autres créances à court terme consolidées en dettes à long et  à moyen termes à encaisser ,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+250,REMBOURSEMENTS DES PRETS ET AUTRES CREANCES A LONG ET A MOYEN TERMES/PEPAYMENT OF LOANS AND CREDITS LONG AND MEDIUM TERM ,250.400,Cautionnement verses à récupérer,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+280,Amortissemernt des immobilisations corporelles ,280.100,Amortissemernt des immobilisations corporerlles ,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+790,Production d’immobilisation corporelles par la commune pour elle-même (auto équipement)/Production of tangible assets by the council for equipment ,790.000,Production d’immobilisation corporelles par la commune pour elle-même (auto équipement)/Production of tangible assets by the council for equipment ,2013,0.0,REVENUE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.100,Fournitures de bureau /Stationery,2013,25000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.101,Abonnements à divers publications/Subscription to various publications,2013,3000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.102,Frais d'impression des tickets /Printing cost of tickects,2013,3000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.103,Frais d'impressions des régistres et documents,2013,5000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.104,"Depenses d'état civil (régistres, livretts, imprimés...) Civil statue",2013,2500000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.105,Carburant et lubrifiants/ Fuel and lubricants,2013,50000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.106,Entretien des réseaux d'eaux et électricité / Maintenance of water and electricity networks,2013,5000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.107,Entretien des voies communales /Maintenance of council roads,2013,4000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.108,Entretien des bâtiments communaux/Maintenance of council building,2013,6000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.109,Entretien résidence du magistral municipal / Maintenance of municipal authority's residence,2013,2400000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.110,"Achat de matières et fournitures pour consommation et entretien divers en régies (tous services Marchés, abattoirs etc.) / Purcahse",2013,10000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.111,Consommation d'eau pour les bâtiments communaux / Water consumption in council buildings,2013,2500000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.112,Consommation d'eau pour la résidence du magistrat Municipal / Water consumption in municipal authority's residence,2013,420.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.113,Consommation d'électricité pour les bâtiments communaux/electricity consumption in council building,2013,4000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.114,Consommation d'électricité pour la résidence du magistrat Electricity consumption in municipal authority's residence,2013,420.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.115,Achat du petit matériel d'équipement / purchase of light equipment,2013,15000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.116,Destruction des animaux nuisibles/Destruction of noxious animais,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.117,Entretien des cimetières/Upkeep of cimeteries,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+610,Matières et fournitures consommées,610.118,Consommation d'électricité des voies publiques/ electricity consumption for street lighting,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+611,TRANSPORTS CONSOMMES,611.100,Transports Conseillers municipaux/Transport expenses for municipal councillomunicipal councillor,2013,5000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+611,TRANSPORTS CONSOMMES,611.101,Transports Magistrats municipaux et Adjoints/Transport expenses for municipal administrators and their deputies,2013,7000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+611,TRANSPORTS CONSOMMES,611.102,Transports secrétaires généraux/Transport expenses for secretaries-general,2013,2400000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+611,TRANSPORTS CONSOMMES,611.103,Transports Receveurs municipaux/Transport expenses for council treasures,2013,2400000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+611,TRANSPORTS CONSOMMES,611.104,Transport personnel communal résident/Transport expenses for resident council staff,2013,7000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+611,TRANSPORTS CONSOMMES,611.105,Transport personnel étranger /Transport expenses for expatriate council staff,2013,5000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+611,TRANSPORTS CONSOMMES,611.106,"Transport pour déplacements définitifs (décès, retraite,rapatriement, etc)",2013,2000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+611,TRANSPORTS CONSOMMES,611.107,"Autres frais de transport (bagages, effets, bien, etc)",2013,2000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+612,"Autres services consommés, other services used",612.100,"Frais postes et télécommunications, posts and télécommunications",2013,6000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+612,"Autres services consommés, other services used",612.101,Participation aux frais de confection de rôles Financial contribution for the drawing of  assassessment books,2013,5000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+612,"Autres services consommés, other services used",612.102,"Primes et remises aux collecteurs d’impôts, bonuses and allowances to tax collectors",2013,6000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+612,"Autres services consommés, other services used",612.103,Frais de mission fixed assets transfer fees,2013,8000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+612,"Autres services consommés, other services used",612.104,Frais de location des véhicules et divers / car rental and sundries,2013,5000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+612,"Autres services consommés, other services used",612.105,Loyers et charges locatives / rents and rental charges,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+612,"Autres services consommés, other services used",612.106,"Honoraires verses (médecins, architectes, audit comptable, bureaux d’études, etc)",2013,4000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+612,"Autres services consommés, other services used",612.107,"Entretien divers en concession (locaux, concessions matériel, mobilier etc) maintenance of sundry services (building equipment, mobable property, etc)",2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+612,"Autres services consommés, other services used",612.108,Frais de gardiennage en concession (guarding  cost),2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+612,"Autres services consommés, other services used",612.109,Services bancaires consommés (frais de tenues de compte et de transfert de fonds banking services (accounts and transfer),2013,4000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+612,"Autres services consommés, other services used",612.110,"Frais de réception et de représentation, entertaiment fees",2013,25000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+612,"Autres services consommés, other services used",612.111,"Frais d’annonces  légales (insertions, publicité etc) legal notice charges (advertisements and advertising etc",2013,6000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+612,"Autres services consommés, other services used",612.112,Frais de fêtes officielles et cérémonies (foire de tenue de compte et de transfert de fonds banking services (accounts and transfer),2013,22000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+620,FRAIS DE PERSONNEL STAFF COST,620.100,Salaire de base et traitement brut basic wages and gross salary,2013,144000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+620,FRAIS DE PERSONNEL STAFF COST,620.101,Indemnités allowances,2013,10000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+620,FRAIS DE PERSONNEL STAFF COST,620.102,Gratifications et remises diverses au personnel communal bonus and allowances granted to council staff,2013,8000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+620,FRAIS DE PERSONNEL STAFF COST,620.103,Heures supplémentaires / overtime,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+620,FRAIS DE PERSONNEL STAFF COST,620.104,Divers avantages en nature servis au personnel communal various benefits in kind provided to council staff,2013,2000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+620,FRAIS DE PERSONNEL STAFF COST,620.105,Cotisations à la CNPS/ contributions to the NSIF,2013,15000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+620,FRAIS DE PERSONNEL STAFF COST,620.106,Provisions pour avancements / reserves for advancement,2013,8000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+620,FRAIS DE PERSONNEL STAFF COST,620.107,Cotisation à l’Etat au titre de la pension de retraite des fonctionnaires en détachement pensions of civil servants on secondment paid to the state,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+620,FRAIS DE PERSONNEL STAFF COST,620.108,Frais de stage et de formation du personnel/training expenses,2013,2000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+620,FRAIS DE PERSONNEL STAFF COST,620.109,Provision pour programme emploi des jeunes/reserves for youth employement programme,2013,70000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+620,FRAIS DE PERSONNEL STAFF COST,620.110,Pension de retraite des personnels des communes de l’ex-Cameroun occidental / pensions granted to Council staff the former west cameroun,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+620,FRAIS DE PERSONNEL STAFF COST,620.111,Frais de personnel temporaries / EXPENDITURE of money on part-time workers,2013,18000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+620,FRAIS DE PERSONNEL STAFF COST,620.112,Frais d’indemnités de sages (étudiants et stagiaires)/ training allowances (students and trainees),2013,2000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+620,FRAIS DE PERSONNEL STAFF COST,620.113,Autres frais de personnel other personnal expenses,2013,3023167.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+630,IMPOTS ET TAXES/ TAXES AND DUTIES,630.100,Vignettes automobiles/windscreen licences,2013,2000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+630,IMPOTS ET TAXES/ TAXES AND DUTIES,630.101,Timbres fiscaux /fiscal stamp duties,2013,500.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+630,IMPOTS ET TAXES/ TAXES AND DUTIES,630.102,"Droits d’enregistrement des actes, marches et letter-commande en cas de prestations de services fouries /stamp duty on deeds. Contracts and jobbing orders for services rendered",2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+630,IMPOTS ET TAXES/ TAXES AND DUTIES,630.103,Taxe proportionnelle sur le revenu des capitaux mobiliers (TPRCM) proportionnal tax on stoppages of transferable capital (PTSC),2013,1000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+630,IMPOTS ET TAXES/ TAXES AND DUTIES,630.104,Droits de péage / toll fees,2013,100.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+630,IMPOTS ET TAXES/ TAXES AND DUTIES,630.105,Autres taxes/other taxes,2013,1000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+640,Frais financés/Financial costs,640.100,Interets sur decouverts bancaires,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+640,Frais financés/Financial costs,640.101,Intérêts sur avances reçues /interest on advances,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+640,Frais financés/Financial costs,640.102,Interêts sur dettes à court terme/interest on short-term loans,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+640,Frais financés/Financial costs,640.103,Intérêts sur emprunts à LMT / interest on long and medium term loans,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+640,Frais financés/Financial costs,640.104,Interest moratoires /interst on overdue payments,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+640,Frais financés/Financial costs,640.105,Autres frais financiers other financial expenses,2013,6000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+650,Subventions versées subsidies granted,650.100,Dotation générale de fonctionnement aux communes urbaines d’arrondissement général appropriation for the operating expenses of urban councils,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+650,Subventions versées subsidies granted,650.101,Subventions aux écoles / subsidies to schools,2013,10000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+650,Subventions versées subsidies granted,650.102,"Subventions aux centres sociaux (maisons de la femme, etc subsidies to social centres (women houses, etc)",2013,8000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+650,Subventions versées subsidies granted,650.103,Subvention aux associations sportives subsidies to sport associations,2013,15000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+650,Subventions versées subsidies granted,650.104,Autres subventions versés / other subsidies granted,2013,20000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+660,TRANSFERTS VERSES/TRANSFERS GRANTED,660.100,Participation au feicom,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+660,TRANSFERTS VERSES/TRANSFERS GRANTED,660.101,Participation au fonctionnement du service  des Communes ,2013,2500000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+660,TRANSFERTS VERSES/TRANSFERS GRANTED,660.102,Participation au fonctionnement du CEFAM,2013,4000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+660,TRANSFERTS VERSES/TRANSFERS GRANTED,660.103,Participation en contrepartie de la coopérative internationale décentralisée ,2013,5000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+660,TRANSFERTS VERSES/TRANSFERS GRANTED,660.104,Participation au ménages des suites des calamites naturelles ,2013,1500000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+660,TRANSFERTS VERSES/TRANSFERS GRANTED,660.105,"Autres transferts verses (ACVC, AMAC,FUMUC,etc) ",2013,5000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+660,TRANSFERTS VERSES/TRANSFERS GRANTED,660.106,Participation aux dépenses des établissements sociaux ,2013,2000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.100,"Indemnités de sessions versées aux membres du conseil municipal ou de la communauté,sitting allowance paid to municipal councillors",2013,5600000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.101,Frais de secrétariat et de réception à l’occasion du conseil secretariat and entertainment allowances during council sessions,2013,12000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.102,Indemnités de fonction et de réprésation des presidents de vice- président des conseils municipaux/ duty and entertainment allowances of municipal chairmen and deputy chairmen of council,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.103,Indemnités forfaitaires des membres des commissions du conseil municipal,2013,2800000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.104,Indemnités de fonction aux magistrats municipals authorities,2013,1400000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.105,Indemnités de fonction des adjoints aux magistrats municipaux,2013,1900000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.106,Indemnités de représentation des magistrats municipaux,2013,765.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.107,Primes d’assurance des membres du conseil municipal,2013,4000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.108,"Primes d’assurance des magistrats municipaux, adjoint et personnel",2013,4000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.109,Primes d’assurance constructions et bâtiments communaux,2013,3000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,607.110,"primes d’assurance, dégâts des eaux, bris de glace",2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.111,"Autres primes d’assurance (incendies, vol auto, vie, responsabilité civile et autres risques etc)",2013,5000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.112,Cotisations professionnelles aux syndicats,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.113,Frais de colloque et séminaires,2013,5000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.114,"Dons, cadeaux et secours / Gifts and relief assistance",2013,65000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.115,Avantages en nature aux magistrats municipaux benfit in king granted to municipal authorities,2013,7000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.116,Rembroursements de dégrèvement sur impôts et taxes (recettes indûment perçues à restituer),2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.117,Manquant de trésorerie et pertes sur autres éléments d’actif (cas fortuit ou de force majeure),2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.118,Perte de change (sur achats et ventes de devises),2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.119,Frais payés en exécution des condamnations judiciaires,2013,2000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.120,Pénalités de retard payées sur exécution des marchés et lettres commandés,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.121,Frais de cession payés pour travaux topographiques et cadastraux,2013,2000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.122,Frais d’activités sportives internes aux équipes de la commune,2013,5000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.123,Frais de participation au fonctionnement des services d’appui au recouivrement des créances diverses / fees for participation in the running of sundy loan recovery support services,2013,6000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.124,Frais d’inhumation des corps abandonnés,2013,12000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.125,"Frais funéraires du personnel permanent, membres du conseil, magistrats municipaux et adjoints",2013,6000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.126,Frais d’acquisition d’écharpes et insignes,2013,1000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.127,Deficits de l’exercice precedent à résorber,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.128,Indemnités d’exportation à verser,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.129,Fonctionnement de la recette municipale,2013,16000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+670,Autres charges et pertes diverses,670.130,Frais de fonctionnement des commissions des marchés,2013,15000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+680,Dotation aux amortissements des immobilisations corporelles (Loi des finances 95-96 art 6D),680.100,Dotation aux amortissements des immobilisations corporelles (Loi des finances 95-96 art 6D),2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+150,Dépenses d’investissement d’équipement,150.100,Emprunts à long et moyen terme remboursable en monnaie nationale,2013,25000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+150,Dépenses d’investissement d’équipement,150.110,Emprunts à long et moyen terme remboursables en dévises,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+150,Dépenses d’investissement d’équipement,150.120,Emprunts à long et moyen terme en nature,2013,0.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+150,Dépenses d’investissement d’équipement,150.130,Remboursement dettes à long et moyen terme contractées à l’intérieur,2013,35000000.0,EXPENDITURE,RECURRENT,,Centre,Yaounde2,BUDGET,COUNCIL
+160,Remboursements des autres dettes à LMT,160.100,Advances de l’Etat à plus d’un an,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+160,Remboursements des autres dettes à LMT,160.110,Crédit à long et moyen termes consentis par les fournisseurs,2013,25000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+160,Remboursements des autres dettes à LMT,160.120,Dettes à court et moyen termes consolidées en dettes à long et moyen terme,2013,15000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+160,Remboursements des autres dettes à LMT,160.130,"Dettes à court terme au bénéfice SONEL, SNEC, P&T intégrées en comptabilité et consolidées en dettes à LMT",2013,10000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+170,Remboursement dettes à LMT resultant d’engagement donné par la commune,170.100,Dettes à LMT resultant de la mise en jeu de la caution donnée,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+210,"Terrains (achats, acquisition) /plots",210.100,Terrains de construction,2013,20000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+210,"Terrains (achats, acquisition) /plots",210.110,"Jardins, espaces verts, cimetières",2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+210,"Terrains (achats, acquisition) /plots",210.120,Terrains de voirie / Urban lands,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+210,"Terrains (achats, acquisition) /plots",210.130,Terrains d’exploitation / Land under exploitation,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+210,"Terrains (achats, acquisition) /plots",210.130,Autres terrains / Other lands,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+220,AUTRES IMMOBILISATIONS CORPORELLES/OTHER TANGIBLE ASSET,220.100,"Immeubles communaux  abritant les services (service général, ateliers, école, dispensaires, etc.)",2013,50000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+220,AUTRES IMMOBILISATIONS CORPORELLES/OTHER TANGIBLE ASSET,220.110,Immeubles communaux à usage d’habitation ,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+220,AUTRES IMMOBILISATIONS CORPORELLES/OTHER TANGIBLE ASSET,220.120,Immeubles communaux à usage commercial (établissements touristiques)/ commercial Council buildings,2013,65000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+220,AUTRES IMMOBILISATIONS CORPORELLES/OTHER TANGIBLE ASSET,220.130,Immeubles communaux à usage  indistriel ,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+220,AUTRES IMMOBILISATIONS CORPORELLES/OTHER TANGIBLE ASSET,220.140,Immeubles communaux ,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+220,AUTRES IMMOBILISATIONS CORPORELLES/OTHER TANGIBLE ASSET,220.150,"Construction voire et réseaux (routes, ponts, bacs, barrages, digues, canalisation, égouts, électricité, signalisation, bornes fontaine, éclairage public)/ construction  of road network (road, ferries dans, drains, sewers, électricity, water, public lighting, road sings) ",2013,93000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+221,Agencements et aménagements des constructions /Lay-out and construction of building,221.100,Agencements et aménagements des constructions  Lay-out and construction of building,2013,15000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+221,Agencements et aménagements des constructions /Lay-out and construction of building,221.110,Aménagement voies et réseau d’eau et d’électricité Construction of water and électricity networks,2013,20000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+221,Agencements et aménagements des constructions /Lay-out and construction of building,221.120,"Aménagement jardins, places publiques espaces verts, etc. Développement of gardens, open , Etc.",2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.100,Matériel de transport  /  Transport equipment ,2013,50000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.110,Matériels bureau topographiques et urbanisme Town-planning stationery,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.120,Matériels des voies communales et urbanisme  Council road Equipment ,2013,5000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.130,Matériel des parcs et jardins / Park and garden equipment ,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.140,Matériels enlévement des ordures ménagères Household refude disposal equipment ,2013,5000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.150,Matériels réparation véhicules et engins ( tous services) Equipment for multipurposes vehicles and machine ,2013,25000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.160,"Matériels divers ateliers municipaux (incendie, menuiserie, etc) Equipment for various council workshops",2013,5000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.170,Matériels services d’eau et élèctricité  Equipment for water and electricity service,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.180,Matèriel autres services techniques ,2013,6000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.181,Matériels entretien bâtiments communaux ,2013,5000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.190,Matériels  informatiques / computer equipment ,2013,9900000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.200,Matériels et mobilier de bâtiment communaux,2013,10000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.210,Materiel et mobilier de bureau / Office equipment and furniture,2013,15000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.220,Materiel et mibilier de la bibliothèque (radio communautaire),2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.230,Matériel de sport / Sport equipment,2013,8000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.240,Matériel et mobilier de cuisine et restaurant,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+222,MATERIELS ET MOBILIERS/EQUIPMENT AND MOVABLES ,222.250,Autres immobilizations corporelles / Other tangible fixed assets,2013,16000000.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+230,Immeubles etautres constructions,230.100,Immeubles abritant les services en cours,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+230,Immeubles etautres constructions,230.110,Immeubles à usage d’habitation en cours,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+230,Immeubles etautres constructions,230.120,Immeubles à usage commercial en cours,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+230,Immeubles etautres constructions,230.130,Immeubles à usage industriel en cours,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+230,Immeubles etautres constructions,230.140,"Autres immeubles en cours gymnase, sport, salle de fêtes)",2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+230,Immeubles etautres constructions,230.150,Construction des voiries et réseaux,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+250,Autres créances à long et moyen termes,250.100,Prêts à LMT à accorder,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+260,Participations et affectations,260.100,Prises de participation matérialisées par les dettes Holdings with or wthat cutificats,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+260,Participations et affectations,260.200,Participation aux centres sociaux,2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
+261,"Dépôts et cautionnement à effectuer (SONEL, SNEC, PTT, CAMTEL)",261.100,"Dépôts et cautionnement à effectuer (SONEL, SNEC, PTT, CAMTEL)",2013,0.0,EXPENDITURE,INVESTMENT,,Centre,Yaounde2,BUDGET,COUNCIL
