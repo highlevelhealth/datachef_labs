@@ -1,0 +1,29 @@
+body {
+	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
+}
+
+.portfolio-item {
+	margin-bottom: 50px;
+}
+
+.description{
+    text-align: center;
+    font-weight: bold;
+    font-size:1.6em;
+}
+
+.description p {
+    margin-bottom:0em;
+    padding-bottom:0em;
+}
+
+.trend{
+    text-align: center;
+    font-weight: bold;
+    color: #555;
+    font-size:1em;
+}
+
+footer {
+	margin: 50px 0;
+}
